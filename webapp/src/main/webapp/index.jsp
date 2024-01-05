@@ -15,22 +15,23 @@
 			<input type="text" id="first"
 				name="first"
 				placeholder="Enter your first name" required> 
+			<br>	
 
 			<label for="last">Last Name:</label> 
 			<input type="text" id="last"
 				name="last"
 				placeholder="Enter your last name" required> 
-
+			<br>	
 			<label for="email">Email:</label> 
 			<input type="email" id="email"
 				name="email"
 				placeholder="Enter your email" required> 
-
+			<br>	
 			<label for="dob">Date of Birth:</label> 
 			<input type="date"
 				id="dob" name="dob"
 				placeholder="Enter your DOB" required> 
-
+			<br>	
 			<label for="password">Password:</label> 
 			<input type="password" id="password"
 				name="password"
@@ -40,26 +41,26 @@
 				title="Password must contain at least one number, 
 					one alphabet, one symbol, and be at 
 					least 8 characters long"> 
-
+			<br>	
 			<label for="repassword">Re-type Password:</label> 
 			<input type="password" id="repassword"
 				name="repassword"
 				placeholder="Re-Enter your password" required> 
 			<span id="pass"></span> 
-
+			<br>	
 			<label for="mobile">Contact:</label> 
 			<input type="text" id="mobile"
 				name="mobile"
 				placeholder="Enter your Mobile Number" required 
 				maxlength="10"> 
-
+			<br>	
 			<label for="gender">Gender:</label> 
 			<select id="gender" name="gender" required> 
 				<option value="male">Male</option> 
 				<option value="female">Female</option> 
 				<option value="other">Other</option> 
 			</select> 
-
+			<br>	
 			<div class="wrap"> 
 				<button type="submit" onclick="solve()"> 
 				Submit 
