@@ -9,7 +9,7 @@
 
 <body> 
 	<div class="main"> 
-		<h1>Test DevOPS</h1> 
+		<h1>Test DevOPS For Learning</h1> 
 		<form action=""> 
 			<label for="first">First Name:</label> 
 			<input type="text" id="first"
