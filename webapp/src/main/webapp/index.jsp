@@ -2,14 +2,14 @@
 <html> 
 
 <head> 
-	<title>Registration Form</title> 
+	<title>New Registration Form</title> 
 	<link rel="stylesheet"
 		href="style.css"> 
 </head> 
 
 <body> 
 	<div class="main"> 
-		<h1>GeeksforGeeks</h1> 
+		<h1>Test DevOPS</h1> 
 		<form action=""> 
 			<label for="first">First Name:</label> 
 			<input type="text" id="first"
