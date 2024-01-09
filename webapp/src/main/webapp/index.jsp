@@ -2,14 +2,14 @@
 <html> 
 
 <head> 
-	<title>New Registration Form</title> 
+	<title>New Devops Registration Form</title> 
 	<link rel="stylesheet"
 		href="style.css"> 
 </head> 
 
 <body> 
 	<div class="main"> 
-		<h1>Test DevOPS Registration Form</h1> 
+		<h1>New Registration Form</h1> 
 		<form action=""> 
 			<label for="first">First Name:</label> 
 			<input type="text" id="first"
